@@ -7392,7 +7392,7 @@ textarea.form-control-lg {
 }
 
 .text-white-50 {
-  color: rgba(000, 000, 000, 0.5) !important;
+  color: rgba(000, 000, 000, 1) !important;
 }
 
 .text-reset {
