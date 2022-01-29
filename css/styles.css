@@ -57,7 +57,8 @@ body {
   line-height: 1.5;
   color: #212529;
   background-color: #fff;
-  -webkit-text-size-adjust: 100%;
+  -webkit-
+  -size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
@@ -7399,7 +7400,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-color: #1abc9c !important;
+  background-color: #ffffff !important;
 }
 
 .bg-secondary {
